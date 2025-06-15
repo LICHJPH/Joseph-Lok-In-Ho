@@ -12,3 +12,5 @@ personality = pd.read_csv('/Users/cola/Desktop/pythonProject2/personality.csv')
 # update to your own path
 personality = pd.read_csv('<your_local_path>/personality.csv')
 ```
+
+Combined. csv file is the file that has both data from personality.csv and the data retrieve through REST API
