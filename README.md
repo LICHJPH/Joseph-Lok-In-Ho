@@ -1,5 +1,5 @@
 # Joseph-Lok-In-Ho
-Oxford Risk Intership Task
+This page is a showcase of my python pragramming skills
 
 The folder contains the results report and the coding.
 
